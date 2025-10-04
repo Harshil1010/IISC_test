@@ -9,7 +9,7 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/github/Harshil1010/IISC_test/blob/main/q1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harshil1010/IISC_test/blob/main/q1.ipynb)
 
 **Quick setup:**
 1. Click the Colab badge above
