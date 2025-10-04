@@ -1,2 +1,25 @@
 # IISC_test
-This repo. contains the solutions of the questions which were asked to me by the AI&amp;R Lab .
+This repo. contains the solutions of the questions which were asked to me by the AI&R Lab .
+
+
+
+# Vision Transformer (ViT) for CIFAR-10
+
+PyTorch implementation of Vision Transformer achieving maximum of **88.7%** test accuracy on CIFAR-10.
+
+## 🚀 Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/vit-cifar10/blob/main/vit_cifar10.ipynb)
+
+**Quick setup:**
+1. Click the Colab badge above
+2. Select **Runtime → Change runtime type → T4 GPU**
+3. Run all cells (**Runtime → Run all** or Ctrl+F9)
+4. Training takes ~45 minutes
+
+**Manual setup:**
+```python
+# Copy this into a Colab cell
+!git clone https://github.com/your-username/vit-cifar10.git
+%cd vit-cifar10
+!python train.py
