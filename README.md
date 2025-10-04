@@ -22,7 +22,7 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 # Copy this into a Colab cell
 !git clone https://github.com/your-username/vit-cifar10.git
 %cd vit-cifar10
-!python train.py
+!python train.py'''
 
 ** Results
 | Model | Accuracy |
