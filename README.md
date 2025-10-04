@@ -5,11 +5,11 @@ This repo. contains the solutions of the questions which were asked to me by the
 
 # Vision Transformer (ViT) for CIFAR-10
 
-PyTorch implementation of Vision Transformer achieving maximum of **88.7%** test accuracy on CIFAR-10.
+PyTorch implementation of Vision Transformer achieving maximum of **28.11%** test accuracy on CIFAR-10.
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/vit-cifar10/blob/main/vit_cifar10.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/Harshil1010/IISC_test/blob/main/q1.ipynb)
 
 **Quick setup:**
 1. Click the Colab badge above
