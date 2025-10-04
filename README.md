@@ -23,3 +23,10 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 !git clone https://github.com/your-username/vit-cifar10.git
 %cd vit-cifar10
 !python train.py
+
+## Results
+| Model | Accuracy |
+|-------|----------|
+| **ViT (Ours)** | **28.`11%** |
+| **Epoch** | **50** |
+| **Learning rate** | **0. 001** |
