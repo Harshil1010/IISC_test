@@ -58,7 +58,6 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Harshil1010/IISC_test/blob/main/q2.ipynb)
 
-https://github.com/Harshil1010/IISC_test/blob/main/q2.ipynb
 
 ## Pipeline Description
 
