@@ -24,7 +24,7 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 %cd vit-cifar10
 !python train.py
 
-## Results
+** Results
 | Model | Accuracy |
 |-------|----------|
 | **ViT (Ours)** | **28.`11%** |
