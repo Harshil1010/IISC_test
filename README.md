@@ -15,7 +15,7 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 1. Click the Colab badge above
 2. Select **Runtime → Change runtime type → T4 GPU**
 3. Run all cells (**Runtime → Run all** or Ctrl+F9)
-4. Training takes ~45 minutes
+4. Training takes ~120 minutes
 
 **Manual setup:**
 ```python
