@@ -37,7 +37,7 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 ## 📊 Ablation Study Results
 
 | Experiment | Best Value | Parameters |
-|------------|------------|----------|------------|
+|------------|------------|------------|
 | **Patch Size** | 4×4 | 15.2M |
 | **Depth/Width** | 8/512 | 15.2M |
 | **Augmentation** | Full Pipeline | 15.2M |
