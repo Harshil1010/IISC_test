@@ -40,6 +40,13 @@ PyTorch implementation of Vision Transformer achieving maximum of **28.11%** tes
 |------------|------------|------------|
 | **Patch Size** | 4×4 | 15.2M |
 | **Depth/Width** | 8/512 | 15.2M |
+| **Heads** | 8 | 15.2M |
+| **Embed Dim** | 512 | 15.2M |
+| **MLP Ratio** | 4.0 | 15.2M |
+| **Dropout** | 0.1 | 15.2M |
 | **Augmentation** | Full Pipeline | 15.2M |
 | **Optimizer** | AdamW + Cosine | 15.2M |
+| **Batch Size** | 128 | 15.2M |
+| **Learning Rate** | 0.001 | 15.2M |
+| **Weight Decay** | 0.05 | 15.2M |
 | **Patches** | Non-overlapping | 15.2M |
